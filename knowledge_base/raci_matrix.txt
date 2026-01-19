@@ -1,0 +1,106 @@
+FRAMEWORK NAME: RACI Matrix
+
+WHAT IT IS:
+A responsibility assignment matrix that clarifies roles and decision-making 
+authority for projects and processes. RACI stands for Responsible, Accountable, 
+Consulted, and Informed - the four types of stakeholder involvement.
+
+WHEN TO USE IT:
+- New project kickoffs
+- Organizational restructuring
+- Process improvement initiatives
+- When roles and responsibilities are unclear
+- Cross-functional projects with multiple stakeholders
+- Post-merger integration
+- Resolving bottlenecks caused by unclear ownership
+
+HOW TO APPLY IT:
+
+Step 1: List All Activities/Deliverables
+- Break down the project into key tasks or decisions
+- Include all major milestones and deliverables
+- Be specific (avoid vague tasks like "manage project")
+- Typically 10-20 activities for most projects
+
+Step 2: Identify All Stakeholders
+- List everyone who touches the work
+- Include all levels (executives, managers, individual contributors)
+- Don't forget cross-functional partners
+- Include external stakeholders if relevant
+
+Step 3: Assign RACI Roles
+For each activity, assign one letter per stakeholder:
+
+R = Responsible (does the work)
+- The person(s) who actually complete the task
+- Can be multiple people
+- Should be specific individuals, not roles
+
+A = Accountable (owns the outcome)
+- The ONE person who approves the work
+- Has final decision-making authority
+- Only ONE 'A' per activity (critical rule)
+- Usually a manager or executive
+
+C = Consulted (provides input)
+- Subject matter experts whose opinions matter
+- Two-way communication (they give feedback)
+- Involved before decisions are made
+- Keep this list small to avoid delays
+
+I = Informed (kept updated)
+- People who need to know about progress
+- One-way communication (just FYI)
+- Notified after decisions are made
+- Can be large group
+
+Step 4: Validate and Refine
+- Review with all stakeholders
+- Check: Does every activity have exactly ONE 'A'?
+- Check: Are there too many 'C's? (slows decisions)
+- Resolve conflicts or gaps
+- Get sign-off from leadership
+
+Step 5: Communicate and Use
+- Share matrix with entire team
+- Reference during meetings and decisions
+- Update as roles evolve
+- Use to resolve "who does what" disputes
+
+EXAMPLE OUTPUT:
+
+Project: Customer Onboarding Process Redesign
+
+| Activity | Product Manager | Ops Lead | Tech Lead | CEO | Sales VP |
+|----------|----------------|----------|-----------|-----|----------|
+| Define requirements | R | C | C | I | C |
+| Approve requirements | A | - | - | - | - |
+| Design new workflow | C | R/A | R | I | C |
+| Build tech solution | I | C | R/A | I | - |
+| Test with pilot customers | C | R | C | I | A |
+| Train sales team | I | R | I | I | A |
+| Launch to all customers | I | R/A | C | A | I |
+| Measure success metrics | R/A | R | I | I | C |
+
+Key:
+R = Responsible (does the work)
+A = Accountable (approves/owns)
+C = Consulted (gives input)
+I = Informed (kept updated)
+
+COMMON MISTAKES:
+- Having multiple 'A's for one activity (creates confusion)
+- Having no 'A' for an activity (no clear owner)
+- Too many 'C's (slows down decisions - keep to 2-3 max)
+- Assigning roles to job titles instead of actual people
+- Creating the matrix but not using it
+- Making it too detailed (should be high-level activities)
+- Not updating it when roles change
+
+SUCCESS METRICS:
+- Reduction in "who's responsible for this?" questions
+- Faster decision-making time
+- Fewer escalations due to unclear ownership
+- Stakeholder satisfaction with clarity
+- On-time delivery of project milestones
+- Reduced duplicate work or dropped tasks

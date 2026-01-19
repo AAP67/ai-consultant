@@ -1,0 +1,186 @@
+FRAMEWORK NAME: Post-Merger Integration (M&A Integration)
+
+WHAT IT IS:
+A structured approach to combining two organizations after a merger or acquisition, 
+covering people, processes, systems, and culture. The goal is to achieve projected 
+synergies while minimizing disruption to business operations.
+
+WHEN TO USE IT:
+- After merger or acquisition announcement
+- Consolidating business units within same company
+- Strategic partnership integration
+- Post-investment operational alignment (PE/VC context)
+- Technology platform consolidation
+- Combining teams after reorganization
+
+HOW TO APPLY IT:
+
+Step 1: Pre-Close Planning (Weeks -8 to 0)
+- Establish Integration Management Office (IMO)
+- Conduct cultural assessment of both organizations
+- Map critical systems, processes, and dependencies
+- Identify Day 1 must-haves (payroll, IT access, communications)
+- Assign integration leads for each functional area
+- Develop communication strategy for employees, customers, partners
+- Create decision-making framework (what stays, what goes, what merges)
+
+Step 2: Day 1 Readiness (Close Date)
+Critical items that MUST work on Day 1:
+- Employee access (email, systems, buildings)
+- Payroll continuation
+- Customer-facing operations remain functional
+- Legal entity structure finalized
+- Initial leadership communication sent
+- IT help desk ready for combined organization
+- Crisis management plan in place
+
+Quick Wins (First 30 Days):
+- Announce combined leadership team
+- Launch integration website/hub for employees
+- Identify and communicate "protected" items (what won't change)
+- Schedule town halls and Q&A sessions
+- Begin cultural integration activities
+
+Step 3: Stabilization Phase (Days 1-90)
+Focus: Keep the business running while planning integration
+
+Workstreams to Launch:
+1. Organization & Talent
+   - Finalize org structure
+   - Conduct talent assessment
+   - Make retention decisions
+   - Communicate role clarity
+   
+2. Process Harmonization
+   - Map overlapping processes
+   - Select "best of both" approaches
+   - Document standard operating procedures
+   - Begin change management
+   
+3. Technology Integration
+   - Assess tech stack compatibility
+   - Prioritize system migrations
+   - Plan data consolidation
+   - Address security/compliance gaps
+   
+4. Customer & Revenue
+   - Align customer messaging
+   - Cross-sell/upsell opportunities
+   - Merge customer databases
+   - Standardize pricing/contracts
+
+5. Finance & Operations
+   - Consolidate reporting
+   - Eliminate duplicate vendors
+   - Realize cost synergies
+   - Track integration KPIs
+
+Step 4: Harmonization Phase (Days 91-180)
+Focus: Execute the integration plan
+
+Key Activities:
+- Migrate to unified systems
+- Implement combined processes
+- Complete organizational changes
+- Achieve 50%+ of projected synergies
+- Standardize policies and procedures
+- Launch combined brand (if applicable)
+- Measure employee engagement
+
+Step 5: Optimization Phase (Days 181-365)
+Focus: Maximize value from integration
+
+Key Activities:
+- Achieve 100% of projected synergies
+- Optimize combined operations
+- Sunset legacy systems
+- Measure integration success
+- Capture lessons learned
+- Declare "integration complete"
+
+EXAMPLE OUTPUT:
+
+Integration Scenario: FinTech Company A acquires Startup B
+
+Day 1 Priorities:
+✓ Slack workspace merged
+✓ GitHub repos accessible to combined team
+✓ Customer support ticketing system unified
+✓ CEO sends welcome email to all employees
+
+30-Day Milestones:
+- Combined product roadmap published
+- Redundant tools eliminated (saved $50K/month)
+- 3 town halls completed (90% attendance)
+- Integration dashboard launched (tracks 25 KPIs)
+
+90-Day Targets:
+- Single CRM platform (migrated 10K customer records)
+- Combined sales team structure finalized
+- 15% headcount reduction complete (via attrition + cuts)
+- $2M annual run-rate savings identified
+
+Integration Scorecard:
+
+| Metric | Target | Actual | Status |
+|--------|--------|--------|--------|
+| Employee retention (key talent) | 90% | 87% | ⚠️ At Risk |
+| Customer churn | <5% | 3% | ✅ On Track |
+| Cost synergies | $5M Year 1 | $4.2M | ✅ On Track |
+| System consolidation | 80% | 65% | ⚠️ Behind |
+| Revenue synergies | $2M Year 1 | $2.5M | ✅ Exceeding |
+
+Top 5 Integration Risks:
+
+1. Tech Stack Incompatibility
+   - Risk: Legacy System B cannot integrate with System A
+   - Impact: HIGH (6-month delay, $1M cost)
+   - Mitigation: Build API bridge, plan parallel systems for 6 months
+   - Owner: CTO
+
+2. Key Talent Attrition
+   - Risk: Top 3 engineers from Company B quit
+   - Impact: MEDIUM (product roadmap delay)
+   - Mitigation: Retention bonuses, equity refresh, clear career paths
+   - Owner: Head of HR
+
+3. Customer Confusion
+   - Risk: Customers don't understand combined offering
+   - Impact: MEDIUM (revenue impact $500K)
+   - Mitigation: Dedicated customer success team, clear messaging, FAQs
+   - Owner: VP Sales
+
+4. Cultural Clash
+   - Risk: Startup culture vs corporate culture friction
+   - Impact: MEDIUM (engagement drops, productivity loss)
+   - Mitigation: Joint team events, culture ambassador program
+   - Owner: CEO + Head of HR
+
+5. Budget Overrun
+   - Risk: Integration costs exceed $10M budget
+   - Impact: LOW (manageable with reserves)
+   - Mitigation: Weekly spend tracking, approval process for >$50K items
+   - Owner: CFO
+
+COMMON MISTAKES:
+- Underestimating integration timeline (plan for 12-18 months, not 6)
+- Announcing organizational changes before decisions are final
+- Over-communicating to leadership, under-communicating to employees
+- Focusing only on cost synergies, ignoring revenue opportunities
+- Not establishing clear decision rights (leads to paralysis)
+- Treating integration as "IT project" instead of business transformation
+- Losing focus on customers during integration chaos
+- Not tracking integration metrics rigorously
+- Declaring victory too early
+
+SUCCESS METRICS:
+- Employee retention rate (especially top performers)
+- Customer retention/churn rate
+- Synergy realization (% of projected cost/revenue synergies achieved)
+- Time to full integration (vs. plan)
+- Employee engagement scores
+- Customer satisfaction scores
+- Integration cost vs. budget
+- Revenue growth of combined entity
+- System consolidation completion rate
+- Cultural integration index (survey-based)

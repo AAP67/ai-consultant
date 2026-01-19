@@ -1,0 +1,78 @@
+FRAMEWORK NAME: Gap Analysis
+
+WHAT IT IS:
+A structured method to identify the difference between where an organization 
+is today (Current State) and where it wants to be (Future State), then create 
+an actionable plan to close that gap.
+
+WHEN TO USE IT:
+- Process improvement projects
+- Performance issues or shortfalls
+- Strategic planning initiatives
+- Post-merger integration
+- Digital transformation
+- Operational inefficiencies
+
+HOW TO APPLY IT:
+
+Step 1: Define Current State
+- Document existing processes, metrics, capabilities
+- Identify pain points and bottlenecks
+- Gather quantitative data (cycle times, error rates, costs)
+- Interview stakeholders to understand challenges
+
+Step 2: Define Future State
+- Articulate the desired end state with specific metrics
+- Set realistic timelines (6-month, 12-month targets)
+- Align with business objectives and strategy
+- Get executive buy-in on the vision
+
+Step 3: Identify the Gap
+- Compare Current vs Future State across all dimensions
+- Quantify the gaps (e.g., "30% longer cycle time than target")
+- Prioritize gaps by business impact
+- Assess root causes of each gap
+
+Step 4: Build Action Plan
+- Create initiatives to close each gap
+- Assign owners (using RACI)
+- Define milestones and timelines
+- Allocate resources and budget
+- Establish success metrics
+
+EXAMPLE OUTPUT:
+
+Current State:
+- Order processing time: 5 days
+- Error rate: 8%
+- Customer satisfaction: 72%
+- Manual touchpoints: 12
+
+Future State (12 months):
+- Order processing time: 2 days
+- Error rate: 2%
+- Customer satisfaction: 90%
+- Manual touchpoints: 3
+
+Gaps Identified:
+1. No automated order validation → causing 60% of errors
+2. Three disconnected systems → causing delays
+3. Unclear ownership → causing rework
+
+Priority Actions:
+1. Implement automated validation (Weeks 1-8)
+2. Integrate systems via API (Weeks 9-16)
+3. Define RACI for order process (Weeks 1-2)
+
+COMMON MISTAKES:
+- Making Future State unrealistic or too vague
+- Not quantifying the gaps with actual data
+- Skipping root cause analysis
+- Creating action plans without clear owners
+- Ignoring change management needs
+
+SUCCESS METRICS:
+- Gap closure rate (% of gaps addressed)
+- Time to implement action plan
+- ROI of improvements
+- Stakeholder satisfaction with process
