@@ -9,7 +9,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Initialize Anthropic client
-anthropic = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+try:
+    # Try Streamlit secrets first (for cloud deployment)
+    anthropic = Anthropic(api_key=st.secrets["ANTHROPIC_API_KEY"])
+except:
+    # Fall back to .env file (for local development)
+    anthropic = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
 # Initialize RAG system
 @st.cache_resource
