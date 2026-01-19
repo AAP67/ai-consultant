@@ -11,10 +11,28 @@ load_dotenv()
 # Initialize Anthropic client
 try:
     # Try Streamlit secrets first (for cloud deployment)
-    anthropic = Anthropic(api_key=st.secrets["ANTHROPIC_API_KEY"])
-except:
+    api_key = st.secrets["ANTHROPIC_API_KEY"]
+    anthropic = Anthropic(api_key=api_key)
+    st.sidebar.success("✓ Using Streamlit Secrets")
+except Exception as e:
     # Fall back to .env file (for local development)
-    anthropic = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+    api_key = os.getenv("ANTHROPIC_API_KEY")
+    if api_key:
+        anthropic = Anthropic(api_key=api_key)
+        st.sidebar.info("Using .env file")
+    else:
+        st.error(f"""
+        **API Key Not Found!**
+        
+        Please configure your Anthropic API key in Streamlit Cloud:
+        1. Click '⋮' menu → Settings
+        2. Click 'Secrets' tab
+        3. Add: ANTHROPIC_API_KEY = "your-key-here"
+        4. Save and reboot
+        
+        Error details: {str(e)}
+        """)
+        st.stop()
 
 # Initialize RAG system
 @st.cache_resource
