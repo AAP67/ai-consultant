@@ -1,6 +1,7 @@
 # app.py
 
 import streamlit as st
+import streamlit.components.v1 as components
 from anthropic import Anthropic
 from rag_system import ConsultingRAG
 import os
@@ -236,6 +237,21 @@ Using the frameworks above, generate a comprehensive strategy brief for this cha
             st.markdown("## 📄 Strategy Brief")
             st.markdown(strategy_brief)
             st.markdown('</div>', unsafe_allow_html=True)
+            
+            # Signal to Francium parent
+            import json as _json
+            _signal_data = _json.dumps({
+                "type": "francium_signal",
+                "toolId": "ai-consultant",
+                "event": "brief_generated",
+                "data": {
+                    "engagement_type": engagement_type,
+                    "industry": industry,
+                    "challenge_preview": challenge[:200] if challenge else "",
+                    "has_constraints": bool(constraints),
+                }
+            })
+            components.html(f"<script>window.top.postMessage({_signal_data}, '*');</script>", height=0)
             
             # Download button
             st.download_button(
